@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"If the juice is worth the squeeze"
 Use the left arrow to go back!
